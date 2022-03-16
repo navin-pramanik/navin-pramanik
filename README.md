@@ -1,6 +1,6 @@
 - 👋 Hi, I am @navin-pramanik
 - 👀 I’m interested in "Java Coding" and "Automation"
-- 🌱 I’m currently learning Cucumber framework
+- 🌱 I’m currently learning Gauge framework and AWS component automation
 - 📫 You can reach me @navin.pramanik01@hotmail.com
 
 <!---
